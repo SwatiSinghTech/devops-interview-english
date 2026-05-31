@@ -6,8 +6,7 @@
 
 ## Diagram
 
-[**tenses-diagram.drawio**](./tenses-diagram.drawio) — file open karke complete visual reference dekho.
-
+**check pdf file diagram below NOTES.md ( diagram ke liye NOTES.md ke neeche wala pdf file kholo)**
 Open kaise karein: [https://app.diagrams.net](https://app.diagrams.net) pe upload karo.
 
 ---
