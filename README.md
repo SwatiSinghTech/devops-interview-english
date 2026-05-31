@@ -60,15 +60,10 @@ Plus [**Resources**](./resources) folder — extra notes aur references.
 
 ---
 
-## Aapki Trainer
-
-**Swati Singh** — DevOps Trainer and Communication Coach
-
----
 
 ## Yeh Course Free Hai
 
-Sab kuch yahan free hai. Bas ek favor karo — agar useful lage:
+Sab kuch yahan free hai.agar useful lage:
 
 - Repo ko **star** karo (upar right corner mein)
 - Apne doston ke saath share karo jo DevOps mein hain
