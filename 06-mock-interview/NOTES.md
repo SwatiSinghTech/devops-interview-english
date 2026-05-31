@@ -6,7 +6,7 @@
 
 ## Diagram
 
-[**mock-interview-diagram.drawio**](./mock-interview-diagram.drawio) — 4 setup steps + 7 questions + evaluation rubric.
+**check pdf file diagram below NOTES.md ( diagram ke liye NOTES.md ke neeche wala pdf file kholo)** — 4 setup steps + 7 questions + evaluation rubric.
 
 ---
 
